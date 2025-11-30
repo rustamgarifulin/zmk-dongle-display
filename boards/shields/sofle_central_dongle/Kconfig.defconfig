@@ -1,0 +1,6 @@
+if SHIELD_SOFLE_CENTRAL_DONGLE
+
+config ZMK_KEYBOARD_NAME
+    default "Sofle Dongle"
+
+endif
